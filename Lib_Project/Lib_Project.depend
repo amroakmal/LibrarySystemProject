@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1514064783 source:c:\users\amrak\documents\codeblocks\lib_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"myhead.h"
+
+1513960351 c:\users\amrak\documents\codeblocks\lib_project\myhead.h
+
+1514212466 source:c:\users\amrak\desktop\project\lib_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"myhead.h"
+
+1513960351 c:\users\amrak\desktop\project\lib_project\myhead.h
+
